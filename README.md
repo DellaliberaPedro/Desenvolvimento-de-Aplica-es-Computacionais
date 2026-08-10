@@ -22,3 +22,4 @@ pip install -r requirements.txt
 python main.py
 
 Sempre execute "python main.py" estando dentro desta pasta.
+Boa Noite

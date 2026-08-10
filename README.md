@@ -2,7 +2,10 @@
 
 Projeto Integrador - Unidade 1. Calculadora desktop em PySide6 com arquitetura em camadas (UI / Controller / Model).
 
-Integrantes: (preencher com os nomes do grupo)
+Integrantes:
+Pedro Henrique Devens Dellalibera 432700
+João Gabriel Trevisol 433578
+Alan Hoffman Dos Santos 432690
 
 ## Estrutura
 
